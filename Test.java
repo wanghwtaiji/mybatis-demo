@@ -1,6 +1,7 @@
 package cn.com.taiji.pad2;
 
 public class Test {
+
 	public static String test1(String x){
 		String result = null;
 		if(x!=null){
