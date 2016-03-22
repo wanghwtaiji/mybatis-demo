@@ -1,4 +1,4 @@
-package cn.com.taiji.pad2;
+ package cn.com.taiji.pad2;
 
 public class Test {
 
